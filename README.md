@@ -20,3 +20,4 @@
 - [What are Embeddings in Machine Learning?](https://aws.amazon.com/what-is/embeddings-in-machine-learning/)
 - [WebVectors: word embeddings online](https://vectors.nlpl.eu/explore/embeddings/en/#)
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
+- [What is RAG (Retrieval-Augmented Generation)?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
