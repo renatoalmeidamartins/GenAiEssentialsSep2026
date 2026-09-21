@@ -15,3 +15,5 @@
 - [AI Security Scoping Matrix](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
 - [Agentic AI Security Scoping Matrix](https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/)
 - [What is Machine Learning?](https://aws.amazon.com/what-is/machine-learning/)
+- [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+- [What are Transformers in Artificial Intelligence?](https://aws.amazon.com/what-is/transformers-in-artificial-intelligence/)
