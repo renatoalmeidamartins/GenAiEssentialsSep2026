@@ -26,3 +26,10 @@
 - [Improve the relevance of query responses with a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank.html)
 - [RetrieveAndGenerate](https://docs.aws.amazon.com/es_es/bedrock/latest/APIReference/API_agent-runtime_RetrieveAndGenerate.html), keep an eye in the document for the other two related calls (Retrieve and Rerank)
 - [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
+- Prompting
+  - [COSTAR-A: A prompting framework for enhancing Large Language Model performance
+on Point-of-View question](https://arxiv.org/pdf/2510.12637)
+  - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
+  - [What is Prompt Engineering?](https://aws.amazon.com/what-is/prompt-engineering/)
+  - [Design a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+
