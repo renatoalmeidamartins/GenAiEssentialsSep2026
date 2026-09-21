@@ -8,4 +8,6 @@
 - [The pillars of the welll-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
 - [2025 Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
 - [AWS re:Invent 2024 - Mitigating the OWASP Top 10 for LLMs: Build secure gen AI applications (AIM283)](https://www.youtube.com/watch?v=ewxCqXYoz4A)
-- 
+- [Responsible AI Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/responsible-ai-lens/responsible-ai-lens.html)
+- [How Generative AI Empowers Attackers and Defenders Across the Trust & Safety Landscape](https://dl.acm.org/doi/full/10.1145/3772318.3791363)
+- [How Generative AI Empowers Attackers and Defenders Across the Trust & Safety Landscape](https://arxiv.org/abs/2601.06033)
