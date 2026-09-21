@@ -1,5 +1,7 @@
 # GenAiEssentialsSep2026
 
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins)
+- renatoalmeidamartins@gmail.com
 - [Fill the survey](https://myclass.skillbuilder.aws/), you will find the class in the "Past classes"  tab. 
 - [Materials and labs](https://us-east-1.student.classrooms.aws.training/class/ilt%23v4dL1Q7p6QhtGSXqHWeyht)
 - [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
