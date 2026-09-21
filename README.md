@@ -11,3 +11,6 @@
 - [Responsible AI Lens - AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/responsible-ai-lens/responsible-ai-lens.html)
 - [How Generative AI Empowers Attackers and Defenders Across the Trust & Safety Landscape](https://dl.acm.org/doi/full/10.1145/3772318.3791363)
 - [How Generative AI Empowers Attackers and Defenders Across the Trust & Safety Landscape](https://arxiv.org/abs/2601.06033)
+- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
+- [AI Security Scoping Matrix](https://aws.amazon.com/ai/security/generative-ai-scoping-matrix/)
+- [Agentic AI Security Scoping Matrix](https://aws.amazon.com/ai/security/agentic-ai-scoping-matrix/)
