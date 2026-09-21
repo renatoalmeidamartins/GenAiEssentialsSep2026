@@ -6,3 +6,6 @@
 - [What is responsible AI?](https://aws.amazon.com/ai/responsible-ai/)
 - [Lens Catalog for AWS WA Tool](https://docs.aws.amazon.com/wellarchitected/latest/userguide/lens-catalog.html)
 - [The pillars of the welll-architected framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
+- [2025 Top 10 Risk & Mitigations for LLMs and Gen AI Apps](https://genai.owasp.org/llm-top-10/)
+- [AWS re:Invent 2024 - Mitigating the OWASP Top 10 for LLMs: Build secure gen AI applications (AIM283)](https://www.youtube.com/watch?v=ewxCqXYoz4A)
+- 
