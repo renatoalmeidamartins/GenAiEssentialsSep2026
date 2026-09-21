@@ -25,3 +25,4 @@
 - [Introducing Amazon Bedrock Managed Knowledge Base for faster, more accurate enterprise AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-managed-knowledge-base-for-faster-more-accurate-enterprise-ai-applications/)
 - [Improve the relevance of query responses with a reranker model in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/rerank.html)
 - [RetrieveAndGenerate](https://docs.aws.amazon.com/es_es/bedrock/latest/APIReference/API_agent-runtime_RetrieveAndGenerate.html), keep an eye in the document for the other two related calls (Retrieve and Rerank)
+- [Understanding intelligent prompt routing in Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/userguide/prompt-routing.html)
