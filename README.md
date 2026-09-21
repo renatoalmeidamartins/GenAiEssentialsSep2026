@@ -32,4 +32,6 @@ on Point-of-View question](https://arxiv.org/pdf/2510.12637)
   - [Implementing advanced prompt engineering with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/implementing-advanced-prompt-engineering-with-amazon-bedrock/)
   - [What is Prompt Engineering?](https://aws.amazon.com/what-is/prompt-engineering/)
   - [Design a prompt](https://docs.aws.amazon.com/bedrock/latest/userguide/design-a-prompt.html)
+- [FuzzyAI Fuzzer](https://github.com/cyberark/fuzzyai)
+- [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
 
